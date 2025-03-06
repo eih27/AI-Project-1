@@ -1,7 +1,6 @@
 # AI-Project-1
-Rock-Paper-Scissors CNN Model
-This project is an exploration of using a convolutional neural network (CNN) on the ESP32S3 Sense microcontroller to classify rock, paper, and scissors hand gestures. My goal is to not only build a working model but also gain a deeper understanding of data collection, preprocessing, and deploying machine learning models on microcontrollers.
-
+Rock-Paper-Scissors CNN Model-
+This project uses a convolutional neural network (CNN) on the ESP32S3 Sense microcontroller to classify rock, paper, and scissors hand gestures. 
 
 Hardware:
 
